@@ -23,8 +23,7 @@ Busco desenvolver sistemas e metodologias para auxiliar a gestão da informaçã
 <!-- Caixas -->
 
 <div>
-  <img height= "180 cm" src="https://github-readme-stats.vercel.app/api?username=Monteiro619&show_icons=true&theme=transparent"/>
-  <img height="180 cm" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent"/>
+  <img height="180 cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent"/>
 </div>
 
   ## Redes sociais
